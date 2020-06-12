@@ -10,4 +10,4 @@ Step 2: Check the version of your chrome browser by going to Help->About Google 
 
 Step 3: Extract the downloaded folder and copy chromedriver.exe to C:\Program Files (x86)  
 
-Step 4: Open the main.py file in VSCode and run it 
+Step 4: Run the main.py file in VSCode or any other code editor of your choice
